@@ -5,9 +5,9 @@
   </p>
 </div>
 <div style="display: flex; ">
-  <div>
+  <div style="display: inline_block">
     <a href="https://linkedin.com/in/omerenma2018">
-      <img src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" width="50px" height="50px" />
+      <img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" width="50px" height="50px" />
     </a>
   </div>
   <div>
