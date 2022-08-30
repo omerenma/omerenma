@@ -12,7 +12,7 @@
   </div>
   <div>
     <a href="https://twitter.com/kingsomerenma">
-      <img src="https://iconape.com/twitter-2012-negative-logo-logo-icon-svg-png.html" width="50px" height="50px" />
+      <img src="https://img.icons8.com/color/344/twitter--v1.png" width="50px" height="50px" />
     </a>
   </div>
     </div>
