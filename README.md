@@ -8,6 +8,11 @@
       <img src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" width="30px" height="30px" />
     </a>
   </div>
+  <div style="display:flex; justify-content:"space-around"; align-items:"center" ">
+    <a href="https://twitter.com/kingsomerenma">
+      <img src="https://images.unsplash.com/photo-1611605698335-8b1569810432?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" width="30px" height="30px" />
+    </a>
+  </div>
 </div>
 
 <h2 color="Green">Technologies I Love and work with</h2>
