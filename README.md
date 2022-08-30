@@ -3,7 +3,7 @@
   <p>
     Software engineer with 5 years of experience working with teams of all sizes to produce impactful, leading-edge solutions that engage customers and deliver business results. Well-versed in developing progressive web application using modern, scalable and optimized code writing.
   </p>
-  <div style="display:flex; justify-content:"space-around"; ">
+  <div style="display:flex; justify-content:"space-around"; align-items:"center" ">
     <img src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" width="30px" height="30px" />
     <a href="https://linkedin.com/in/omerenma2018">Linkedin</a>
   </div>
