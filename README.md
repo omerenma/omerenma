@@ -3,9 +3,9 @@ Software engineer with 5 years of experience working with teams of all sizes to 
 <h2>Technologies</h2>
 JavaScript, TypeScript, NodeJs, React.js,React Native, Next.Js, Redux devtool, Expressjs, Postgres, Mongodb, Jest and Cypress Testing
 <h2>Work History</h2>
-<a href="www.stetis.com">Stetis</a> : Feb 2020 - present
+Stetis : Feb 2020 - present
 <br>
-Onchain.ng : 2019 - 2020
+Onchain : 2019 - 2020
 <br>
-Packetswitchings.com : 2017 - 2018
+Packet Switching Solutions : 2017 - 2018
 
