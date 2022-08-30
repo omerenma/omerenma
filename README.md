@@ -7,21 +7,10 @@
 <a href="https://www.linkedin.com/in/omerenma2018/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="godwin2341@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="https://twitter.com/kingsomerenma">
+  <img src="https://img.icons8.com/color/344/twitter--v1.png" width="50px" height="50px" />
 </a>
-<div style="display: flex; ">
-  <div style="display: inline_block">
-    <a href="https://linkedin.com/in/omerenma2018">
-      <img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" width="50px" height="50px" />
-    </a>
-  </div>
-  <div>
-    <a href="https://twitter.com/kingsomerenma">
-      <img src="https://img.icons8.com/color/344/twitter--v1.png" width="50px" height="50px" />
-    </a>
-  </div>
-    </div>
+  
 
 <h2 color="Green">Technologies I Love and work with</h2>
 <div style="display: inline_block"><br>
