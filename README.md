@@ -18,20 +18,18 @@
     </div>
 
 <h2 color="Green">Technologies I Love and work with</h2>
-<ul>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  <li>NodeJs</li>
-  <li>React</li>
-  <li>React Native</li>
-  <li>Redux devtool</li>
-  <li>Expressjs</li>
-  <li>Redux devtool</li>
-  <li>Postgres</li>
-  <li>Mongodb</li>
-  <li>Jest</li>
-  <li>Cypress</li>
-</ul>
+<div style="display: inline_block"><br>
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+                                                              
+</div>
 <h2>Work History</h2>
 Stetis : Feb 2020 - present
 <br>
