@@ -4,6 +4,12 @@
     Software engineer with 5 years of experience working with teams of all sizes to produce impactful, leading-edge solutions that engage customers and deliver business results. Well-versed in developing progressive web application using modern, scalable and optimized code writing.
   </p>
 </div>
+<a href="https://www.linkedin.com/in/omerenma2018/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="godwin2341@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <div style="display: flex; ">
   <div style="display: inline_block">
     <a href="https://linkedin.com/in/omerenma2018">
