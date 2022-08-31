@@ -10,7 +10,7 @@
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/kingsomerenma">
-  <img src="https://img.icons8.com/color/344/twitter--v1.png" width="50px" height="50px" />
+  <img src="https://img.icons8.com/color/344/twitter--v1.png" width="24px" />
 </a>
   </div>
   
