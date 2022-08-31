@@ -5,11 +5,10 @@
   </p>
 </div>
 <div style="display: inline_block">
-  <div>
+  
 <a href="https://www.linkedin.com/in/omerenma2018/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-    </div>
   <div>
 <a href="https://twitter.com/kingsomerenma">
   <img src="https://img.icons8.com/color/344/twitter--v1.png" width="50px" height="50px" />
