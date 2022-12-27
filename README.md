@@ -1,7 +1,8 @@
 <h1>Software engineer</h1>
 <div>
   <p>
-    Software engineer with experience working with teams of all sizes to produce impactful, leading-edge solutions that engage customers and deliver business results. Well-versed in developing progressive web application using modern, scalable and optimized code writing.
+    I'm Kingsley! A software architect with experience in building server side applications using NodeJS and client side applications using React, Vue and Angular.
+    I lay strong emphasis on micro-service architectur on the server-side and micro-frontend architecture using single-spa and webpack5 module federation on the browser while ensuring code quality, modularity and performance
   </p>
 </div>
 <div style="display: inline_block; background:red;">
