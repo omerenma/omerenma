@@ -1,8 +1,7 @@
 <h1>Software engineer</h1>
 <div>
   <p>
-    I'm Kingsley! A software architect with experience in building server side applications using NodeJS and client side applications using React, Vue and Angular.
-    I lay strong emphasis on micro-service architectur on the server-side and micro-frontend architecture using single-spa and webpack5 module federation on the browser while ensuring code quality, modularity and performance
+    I'm Kingsley! A software architect with experience in micro-frontend architecture and micro-services at backend. My goal is to build highly performant and scalable fontend and backend solutions with key concern on software quality.
   </p>
 </div>
 <div style="display: inline_block; background:red;">
