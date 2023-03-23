@@ -1,7 +1,9 @@
 <h1>Software engineer</h1>
 <div>
   <p>
-    I'm Kingsley! A software architect with experience in micro-frontend architecture and micro-services at backend. My goal is to build highly performant and scalable fontend and backend solutions with key concern on software quality.
+    Kingsley is a talented software developer with 4+ years of experience working on a variety of projects. He is a specialist in front-end development with JavaScript, Typescript, React.JS, Angular and other related technologies and frameworks. He holds a Bachelor’s Degree in Chemistry and has undergone several software development courses at Udacity with verifiable links to certificate of completion. He has experience working in small and medium-sized companies building complex front-end solutions. For Kingsley TDD is a must, he has vast experience working with unit tests using tools such as Jest, Jasmine and Cypress.
+Kingsley is skilled at communicating with the diverse parties involved in the development process to efficiently solve problems. He is passionate about his work and adapts quickly to new technologies, constantly looking to improve and learn. His experience allows him to get involved in the full development process from planning to deployment.
+
   </p>
 </div>
 <div style="display: inline_block; background:red;">
